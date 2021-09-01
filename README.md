@@ -1,4 +1,4 @@
-# Movie-Ticket-Booking
+# Movie-Ticket-Booking System
 Python GUI to book movie Ticket online and Generate Bill.
 
 
