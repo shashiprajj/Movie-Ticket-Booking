@@ -12,14 +12,14 @@ In addition to the movie poster, it also displays a short plot of the movie to e
 
 
 ====== ***Python Libraries*** ======= <br />
-Bs4 i.e BeautifulSoup (used for web scrapping)
-Math and Random 
-Requests
-io 
-OS
-PIL (Image, ImageTk)
-MessageBox
-urllib.request
+Bs4 i.e BeautifulSoup (used for web scrapping), 
+Math and Random,  
+Requests, 
+io,  
+OS, 
+PIL (Image, ImageTk), 
+MessageBox, 
+urllib.request.
 
 
 ====== ***Log-In Screen*** ======= <br />
